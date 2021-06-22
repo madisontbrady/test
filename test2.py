@@ -1,1 +1,3 @@
-print("this is a test")
+
+def print_something():
+    print("this is a test")

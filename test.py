@@ -1,3 +1,6 @@
 import numpy as np
-a = np.arange(1, 10)
-print(a)
+
+def make_array():
+
+    a = np.arange(1, 10)
+    return a
